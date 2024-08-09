@@ -1,7 +1,7 @@
 {
   "homepage": "http://itzpankuu.github.io/swiggy-clone",
   "name": "swiggy-clone",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
